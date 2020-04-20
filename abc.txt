@@ -1,3 +1,4 @@
 #!/usr/bin/ksh
 
 echo "This is a test file"
+echo "THis is the second test statement"
