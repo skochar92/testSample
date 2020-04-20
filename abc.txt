@@ -1,5 +1,4 @@
 #!/usr/bin/ksh
 
 echo "This is a test file"
-echo "This change is irrelevant:"
 echo "THis is the second test statement"
